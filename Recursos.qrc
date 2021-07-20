@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/Traducciones">
+        <file>Traducciones/Salario_es_EC.qm</file>
+        <file>Traducciones/Salario_ja_JPN.qm</file>
+        <file>Traducciones/Salario_pt_POR.qm</file>
+    </qresource>
+    <qresource prefix="/Recursos">
+        <file>Recursos/abrir-correo-electronico.png</file>
+        <file>Recursos/acerca.png</file>
+        <file>Recursos/asalario.png</file>
+        <file>Recursos/calculadora.png</file>
+        <file>Recursos/carpeta.png</file>
+        <file>Recursos/disco-flexible.png</file>
+        <file>Recursos/documentos-oficiales.png</file>
+        <file>Recursos/informacion.png</file>
+        <file>Recursos/salario.png</file>
+    </qresource>
+</RCC>
